@@ -1,1 +1,1 @@
-# Competetive-Programming-C-Setup
+# Competetive-Programming-C++-Setup
